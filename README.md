@@ -47,10 +47,7 @@ Performance was optimized by comparing multiple algorithms (Decision Tree, Rando
 ### **Submission Deliverables**
 
 * **Code:** `dengue_data_preparation.py` (complete ML pipeline) and `app.py` (Streamlit web application).
-* **Demo:** A live Streamlit deployment showcases the model's impact.
 
-***
 
-Your next and final task is to ensure the **Streamlit app (`app.py`)** is deployed and you have the live link to paste into your report (or submit alongside it).
-
-Would you like me to help you formulate the final sentence for your presentation demo, showcasing your model's impact?# AI-for-sustainable-development
+* **Live Demo Link:** **[Dengue Outbreak Predictor Live Demo](https://ai-for-sustainable-development-cubkphsnexhsdnvfaubdgp.streamlit.app/)**
+* **Demo Purpose:** The app allows a user to input current weekly climate parameters and instantly receive a **HIGH** or **LOW** risk prediction for the next dengue outbreak in San Juan, enabling health officials to act proactively.
